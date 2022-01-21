@@ -1,1 +1,1 @@
-# Hashcode2022.io
+# Hashcode programming practice questions
